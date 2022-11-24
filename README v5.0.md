@@ -7,7 +7,7 @@ Input should be single DNA sequences without the title or symbols.
 
 Maximum Sequence size for Seqeunce Properties depends on system resources
 
-Maximum sequence limit for 3D modelling is 1000bp.
+Maximum sequence limit for 3D modelling is 3000bp.
 
 Instruction
 
