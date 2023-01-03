@@ -1,4 +1,4 @@
-# JINA-H v5.0
+# JINA-H v5_1
 <img src="https://github.com/jrhtdo/JINA-H/blob/main/Helix%20Logo-min.png?raw=true" height="200" align="right" style="height:240px">
 
 The **Joint Interactive Nucleotide Analysis-Helix**  was developed at Helix Biogen Institute and is designed to calculate sequence lenght, GC content, start codon and stop codon, protein translation of DNA and RNA sequences and predict the 3D model of the sequence. 
