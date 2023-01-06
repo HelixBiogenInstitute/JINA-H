@@ -9,7 +9,7 @@ Maximum Sequence size for Seqeunce Properties depends on system resources
 
 Maximum sequence limit for 3D modelling is 3000bp per sequence.
 
-Instruction
+**Instruction**
 
 * Click on 'connect' in the taskbar above.
 * Click on 'Run all'.
