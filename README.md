@@ -5,7 +5,6 @@ The **Joint Interactive Nucleotide Analysis-Helix**  was developed at Helix Biog
 
 Input should be a text or fasta file with **single line spacing** between multiple sequences.
 
-Maximum Sequence size for Seqeunce Properties depends on system resources
 
 Maximum sequence limit for 3D modelling is 3000bp per sequence.
 
